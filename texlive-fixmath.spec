@@ -1,6 +1,6 @@
 Name:		texlive-fixmath
 Version:	64648
-Release:	1
+Release:	2
 Summary:	Make maths comply with ISO 31-0:1992 to ISO 31-13:1992
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fixmath
