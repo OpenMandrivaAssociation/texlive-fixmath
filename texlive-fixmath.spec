@@ -3,7 +3,7 @@ Version:	64648
 Release:	2
 Summary:	Make maths comply with ISO 31-0:1992 to ISO 31-13:1992
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fixmath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fixmath
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fixmath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fixmath.doc.r%{version}.tar.xz
